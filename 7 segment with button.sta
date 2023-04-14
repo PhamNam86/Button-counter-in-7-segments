@@ -1,0 +1,48 @@
+
+ROM used: 173 (2%)
+          173 (2%) including unused fragments
+
+          0 Average locations per line
+          3 Average locations per statement
+
+RAM used: 7 (2%) at main() level
+          9 (2%) worst case
+
+Stack used: 1 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  137    59 100  7 segment with button.c
+  411     0   0  C:\Program Files (x86)\PICC\devices\16F887.h
+  212     0   0  C:\Program Files (x86)\PICC\drivers\luutinh.h
+----- -----
+  760    59 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+ Inline        1             @delay_ms1
+0    127  73   1  1545  4.4  Button_1
+0     42  24   0    80  1.6  MAIN
+
+Program metrics:
+    Functions               2
+    Statements              59
+    Comments                99
+    Volume (V)              1735
+    Difficilty (D)          6.2
+    Effort to implement (E) 10730
+    Time to implement (T)   10 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   17
+    Maintainability (MI)    29
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF   169  1875  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+

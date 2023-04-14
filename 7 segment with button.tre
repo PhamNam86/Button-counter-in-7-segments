@@ -1,0 +1,5 @@
+青7 segment with button
+   青MAIN  0/42  Ram=0
+      団??0??
+      青Button_1  0/127  Ram=1
+         青@delay_ms1  (Inline)  Ram=1
